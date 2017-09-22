@@ -2,10 +2,13 @@
 
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get install git weechat-curses tmux
+sudo apt-get install git weechat-curses tmux python-pip
 
+mkdir ~/git
 
-cp .bashrc ~/
+git clone https://github.com/bobbzorzen/configs.git ~/git/
+
+cp ~/git/config/.bashrc ~/
 source ~/.bashrc
 
 
