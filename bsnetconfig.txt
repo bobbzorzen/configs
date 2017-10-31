@@ -1,0 +1,36 @@
+bsnet.addresses = "irc.bsnet.se"
+bsnet.proxy
+bsnet.ipv6
+bsnet.ssl
+bsnet.ssl_cert
+bsnet.ssl_priorities
+bsnet.ssl_dhkey_size
+bsnet.ssl_fingerprint
+bsnet.ssl_verify
+bsnet.password
+bsnet.capabilities
+bsnet.sasl_mechanism
+bsnet.sasl_username
+bsnet.sasl_password
+bsnet.sasl_timeout
+bsnet.autoconnect = on
+bsnet.autoreconnect
+bsnet.autoreconnect_delay
+bsnet.nicks = "bobbzorzen,bobba"
+bsnet.username = "bobbzorzen"
+bsnet.realname = "Leopold Olsson"
+bsnet.local_hostname
+bsnet.command = "/msg nick identify xxx"
+bsnet.command_delay
+bsnet.autojoin = "#db-o-webb,#hemlig,#wip,#bobbzorzen"
+bsnet.autorejoin
+bsnet.autorejoin_delay
+bsnet.connection_timeout
+bsnet.anti_flood_prio_high
+bsnet.anti_flood_prio_low
+bsnet.away_check
+bsnet.away_check_max_nicks
+bsnet.default_msg_kick
+bsnet.default_msg_part
+bsnet.default_msg_quit
+bsnet.notify
